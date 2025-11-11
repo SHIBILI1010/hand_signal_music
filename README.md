@@ -35,4 +35,4 @@ This project uses **OpenCV** and **MediaPipe** to detect real-time hand gestures
 
 ---
 
-## 🖥️ Project Structure
+
